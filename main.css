@@ -1,0 +1,109 @@
+.logo{
+    font-size: 26px;
+    font-weight: bold;
+}
+.logo span{
+    color: #6C55F9;
+}
+.ul{
+    width: 100%;
+    justify-content: end;
+    gap: 20px;
+}
+.btn-light{
+    background-color: #6C55F9;
+    color: white;
+    padding: 7px 20px;
+}
+
+.watch-col{
+    width: 96%;
+    margin: auto;
+    height: 90vh;
+    background-color: #F6F5FC;
+    border-radius: 20px;
+}
+.height{
+    height: 100%;
+}
+.flex{
+    display: flex;
+    height: 100%;
+    justify-content:center;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    padding:0 20px ;
+}
+.bold{
+    font-weight: 400;
+}
+
+.scroll-btn{
+    width:30px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0 0 5px lightgray;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-serv{
+    width: 85%;
+    margin: auto;
+}
+
+.about{
+    padding: 40px;
+    margin: 100px 0;
+}
+ .line{
+    width: 50px;
+    height: 3px;
+    border-radius: 1px;
+    background-color: #6C55F9;
+    margin: 20px 0;
+}
+.about p{
+    margin: 30px 0;
+}
+.about span, h1{
+    color: #645F88;
+    font-weight: 400;
+}
+.center{
+    margin: auto;
+}
+.service2{
+    width: 80px;
+    margin-bottom: 30px;
+}
+
+ .height2{
+    height: 200px;
+    align-items: center;
+    background-image: url(./img/bg_pattern.svg), linear-gradient( 90deg ,indigo,rgb(227, 167, 219),indigo ) ;
+ }
+ .card-size{
+    width: 300px;
+    margin: 30px auto;
+    box-shadow: 0 0 10px rgb(230, 224, 224);
+ }
+
+ .card-bg{
+    background-color: #6C55F9;
+    color: white;
+ }
+ .bg-img{
+    height: 500px;
+    background-image: url(./img/bg_pattern.svg);
+    background-color: #645F88;
+ }
+ 
+
+ 
